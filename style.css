@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background: url(https://images.unsplash.com/photo-1549593221-c1353089bdec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1575&q=80);
+  background-size: cover;
+  background-position: ;
+  font-family: helvetica;
+  font-size: 22px;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+button {
+  color: white;
+  background: red;
+}
+ul {
+  color: white;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.9);
+}
